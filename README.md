@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou João 🖐️
 
 
