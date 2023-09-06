@@ -13,4 +13,4 @@
 <img aling="center"  alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Estudante e entusiasta tecnologia, sempre ser o melhor em tudo que faço!
+Estudante e entusiasta tecnologia, sempre seja o melhor em tudo que faça!
